@@ -17,8 +17,10 @@
       <td>Muhammad Mikail Ziyad</td>
       <td>Machine Learning</td>
       <td>
-        <a href=""><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href=""><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href="https://github.com/MikailZiyad"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href="https://www.linkedin.com/in/muhammad-mikail-ziyad-9b6449240/"><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
     <tr>
@@ -26,8 +28,10 @@
       <td>Muhammad Giyan Saputra</td>
       <td>Machine Learning</td>
       <td>
-        <a href=""><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href=""><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href="https://github.com/MuhammadGynSptr"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href="https://www.linkedin.com/in/giyan-saputra-5002322a1/"><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
     <tr>
@@ -35,8 +39,10 @@
       <td>Jason Farellius</td>
       <td>Machine Learning</td>
       <td>
-        <a href=""><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href=""><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
     <tr>
@@ -44,8 +50,10 @@
       <td>Luthfi Mubarok</td>
       <td>Cloud Computing</td>
       <td>
-        <a href="https://github.com/luthfimubarok71/"><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href="https://www.linkedin.com/in/luthfi-mubarok/"><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href="https://github.com/luthfimubarok71"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href="https://www.linkedin.com/in/luthfi-mubarok/"><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
     <tr>
@@ -53,8 +61,10 @@
       <td>Dafid Ali Ma`Ruf Asaifudin</td>
       <td>Cloud Computing</td>
       <td>
-        <a href="https://github.com/dafidAlii"><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href="https://www.linkedin.com/in/dafid-ali-a1b63b332/"><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href="https://github.com/dafidAlii"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href="https://www.linkedin.com/in/dafid-ali-a1b63b332/"><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
     <tr>
@@ -62,8 +72,10 @@
       <td>Andika Pangestu</td>
       <td>Mobile Development</td>
       <td>
-        <a href=""><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href=""><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href="https://github.com/andikapgst"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
     <tr>
@@ -71,8 +83,10 @@
       <td>Septian Nur Hidayat</td>
       <td>Mobile Development</td>
       <td>
-        <a href=""><img src="https://cdn.simpleicons.org/github?viewbox=auto"></a>
-        <a href=""><img src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        <span>
+          <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+        </span>
       </td>
     </tr>
   </table>
