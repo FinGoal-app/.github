@@ -63,7 +63,7 @@
       <td>
         <span>
           <a href="https://github.com/dafidAlii"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
-          <a href="https://www.linkedin.com/in/dafid-ali-a1b63b332/"><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
+          [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafid-ali-a1b63b332/)
         </span>
       </td>
     </tr>
