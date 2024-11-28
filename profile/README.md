@@ -84,7 +84,7 @@
       <td>Mobile Development</td>
       <td>
         <span>
-          <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
+          <a href="https://github.com/septiannurhidayat"><img width="40" height="40" src="https://cdn.simpleicons.org/github/white?viewbox=auto"></a>
           <a href=""><img width="40" height="40" src="https://cdn.simpleicons.org/linkedin?viewbox=auto"></a>
         </span>
       </td>
