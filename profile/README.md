@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/fingoal.png" width="100" height="100"><br>
+  <img src="/assets/fingoal1.png" width="100" height="100"><br>
   <i>Manage Your Money, Achieve Your Dreams.</i>
 </div>
 
