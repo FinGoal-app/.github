@@ -91,3 +91,7 @@
     </tr>
   </table>
 </div>
+
+
+
+<q>In today's digital era, financial management is becoming increasingly complex due to the ease of online shopping and Consumerism. These challenges often disrupt the habit of over-budgeting, so that financial goals are not achieved. To address this problem directly, we developed the FinGoal android application. By leveraging machine learning, our Android application empowers users with tailored recommendations to align their income, expenses, and savings goals, making financial success easier to achieve.</q>
